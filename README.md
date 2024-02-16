@@ -4,5 +4,5 @@ This project explores some common security threads usually present in Web Applic
 
 Prerequisites:
 - Linux or macOS
-- Node.js
+- Node.js 
 - Sqlite3
