@@ -23,4 +23,4 @@ jobs:
         uses: ihiroky/archive-action@v1
         with:
           root_dir: root
-          file_path: output/output.zip
+          file_path: output.zip
